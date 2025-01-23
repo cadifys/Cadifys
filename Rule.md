@@ -1,14 +1,14 @@
-## 1 Create New Branch With Below Rule :
-# Feature -> Feature/Feature_name
-# Bug    --> Bug/Bug_title_orId
-# Fix    -> Fix/Fix_title_OrId
-# Improvement  -> Improv/Impro_title
-# Issue     -> Issue/Issue_title_andId
+# 1 Create New Branch With Below Rule :
+### 3 Feature -> Feature/Feature_name
+### Bug    --> Bug/Bug_title_orId
+### Fix    -> Fix/Fix_title_OrId
+### Improvement  -> Improv/Impro_title
+### Issue     -> Issue/Issue_title_andId
 
-## 2 Create Pull Request on UAT branch only :
-# before you push rebase you code with UAT branch 
-# PR discription should be good 
-# and proper title
+# 2 Create Pull Request on UAT branch only :
+### before you push rebase you code with UAT branch 
+### PR discription should be good 
+### and proper title
 
 eg :
 push changes
@@ -22,15 +22,15 @@ push se rebase kr
 
 push --force-with-lease
 
-## 3 Commit with proper title :
-# proper commet on your code 
-# rebase your code with UAT 
+# 3 Commit with proper title :
+### proper commet on your code 
+### rebase your code with UAT 
 eg commit - 
 FIX : "Swiggy UI"
 UPDATE
 FEATURE
 
-## 4 Some command for git :
+# 4 Some command for git :
 
 git add . 
 git commit -m "PROTO: added protocols"
