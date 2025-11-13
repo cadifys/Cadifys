@@ -1,109 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Cadifys is an AI-powered CAD assistant designed to automate repetitive tasks, enhance productivity, and streamline your entire design workflow."/>
-  <meta name="keywords" content="AI CAD assistant, CAD automation, CAD productivity tool, AI-powered CAD software, CAD design software"/>
-  <meta name="author" content="Cadifys"/>
-  <title>Cadifys - Your AI-Powered CAD Assistant</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      color: #333;
-      background-color: #f9f9f9;
-    }
-    header {
-      background-color: #030b1c;
-      color: #00f0ff;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-    }
-    .container {
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background-color: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-    }
-    .container h2 {
-      color: #2563eb;
-    }
-    .container p {
-      margin-bottom: 20px;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #030b1c;
-      color: #aaa;
-      font-size: 0.9rem;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+# 💸 Cadifast — 20-Minute Instant Loan App by Cadifys
 
-  <header>
-    <h1>Welcome to Cadifys</h1>
-    <p>Your AI-Powered CAD Assistant to Supercharge Design Productivity</p>
-  </header>
+**Cadifast** is a next-generation **instant loan and EMI management app** built by **Cadifys**, a fintech innovator focused on fast, secure, and paperless lending solutions.  
+With Cadifast, users can apply, verify, and get their **personal loan approved within just 20 minutes** — all from their smartphone.
 
-  <div class="container">
-    <h2>What is Cadifys?</h2>
-    <p>
-      <strong>Cadifys</strong> is an advanced <strong>AI CAD assistant</strong> that helps designers, engineers, and architects automate repetitive tasks, speed up iterations, and reduce human error in CAD software. Whether youre working in SolidWorks, AutoCAD, Fusion 360, or other platforms, Cadifys enhances your workflow with smart, AI-powered features.
-    </p>
-    <h2>Why Cadifys is the Future of CAD Automation</h2>
-    <p>
-      In today's fast-paced design world, agility is everything. With <strong>CAD automation</strong>, Cadifys empowers professionals to:
-      <ul>
-        <li>Automate drafting and modeling tasks using AI prompts</li>
-        <li>Get real-time design suggestions based on previous patterns</li>
-        <li>Reduce design cycle times by up to 40%</li>
-        <li>Seamlessly integrate with existing CAD workflows</li>
-      </ul>
-    </p>
-    <h2>Key Features of Cadifys</h2>
-    <p>
-      ✅ AI-Powered Design Suggestions<br/>
-      ✅ Auto Dimensioning & Parametric Adjustments<br/>
-      ✅ Version Control & Change Tracking<br/>
-      ✅ Team Collaboration & Commenting<br/>
-      ✅ File Integration Across Platforms
-    </p>
-    <h2>Who Can Benefit from Cadifys?</h2>
-    <p>
-      Cadifys is ideal for:
-      <ul>
-        <li>Mechanical Engineers</li>
-        <li>Product Designers</li>
-        <li>Architects</li>
-        <li>CAD Service Providers</li>
-        <li>3D Modeling & Simulation Experts</li>
-      </ul>
-    </p>
-    <h2>Start Your AI-Powered Design Journey Today</h2>
-    <p>
-      Cadifys is not just a tool — it's your design companion. Join the future of intelligent design by signing up for early access.
-    </p>
-    <p><a href="https://forms.gle/4rG3nrvhyckHiyF79" target="_blank">🚀 Request Early Access</a></p>
-  </div>
+---
 
-  <footer>
-    &copy; 2025 Cadifys. Built with precision, powered by AI.
-  </footer>
+## 🚀 About Cadifys
 
-</body>
-</html>
+**Cadifys Technologies Pvt. Ltd.** is a forward-thinking **fintech company** simplifying how people access and manage credit.  
+We design smart financial products powered by **AI, automation, and secure APIs** that help users make better loan decisions in minutes, not days.
+
+Our mission:  
+> *To make financial access simple, fast, and transparent for everyone.*
+
+---
+
+## 🏦 About Cadifast — Smart Instant Loan Platform
+
+**Cadifast** is designed for users who need quick financial help without the traditional banking hassle.  
+Using **smart eligibility checks** and **real-time API integrations** with partner banks and NBFCs, Cadifast shows personalized loan offers instantly.
+
+### ✨ Key Features
+- ⚡ **Instant Loan in 20 Minutes** — Get funds approved and disbursed quickly.  
+- 📱 **100% Digital Process** — Upload basic documents & complete KYC online.  
+- 🔍 **Real-Time Offer Comparison** — View EMI plans and offers from multiple lenders.  
+- 💾 **Secure Data Handling** — All personal data encrypted with enterprise-grade security.  
+- 🤝 **Trusted Partner Network** — Backed by RBI-registered NBFCs and reputed banks.  
+
+---
+
+## 📊 How It Works
+
+1. **Download the App** (Android / iOS)  
+2. **Login & Verify** your identity using mobile OTP and KYC documents  
+3. **Enter Loan Requirement** — Choose amount & tenure  
+4. **Compare Offers** — Cadifast fetches personalized EMI plans instantly  
+5. **Apply & Get Approved** — Loan approval in **20 minutes or less**  
+
+---
+
+## 🔗 API & Technology
+
+Cadifys integrates with modern fintech APIs such as:
+- [Decentro](https://decentro.tech)
+- [Setu](https://setu.co)
+- [FinBox](https://finbox.in)
+- [Perfios](https://perfiostech.com)
+
+We also use a custom **Rule Engine** for lenders without APIs — ensuring every user gets a valid offer regardless of their bank.
+
+---
+
+## 🧩 Why Choose Cadifast
+
+| Feature | Benefit |
+|----------|----------|
+| Fast Disbursal | Loan in 20 minutes |
+| Multiple Lenders | Compare best EMI options |
+| Paperless Process | No physical documents |
+| Secure & Compliant | RBI & DPDP Act aligned |
+| User-Friendly UI | Simple & modern mobile app |
+
+---
+
+## 🏢 Company Info
+
+**Cadifys Technologies Pvt. Ltd.**  
+Building smart financial solutions for the digital India era.  
+🌐 Website: [https://cadifys.com](https://cadifys.com)  
+📧 Email: support@cadifys.com  
+📍 Location: Bengaluru, India  
+
+---
+
+## 🧠 Keywords (SEO Optimized)
+
+> instant loan app, quick personal loan India, 20 minute loan approval, online EMI calculator, fintech startup India, digital lending platform, instant cash loan app, Cadifys, Cadifast, smart EMI system, quick loan without paperwork
+
+---
+
+## ⚙️ License
+
+© 2025 Cadifys Technologies Pvt. Ltd. — All rights reserved.  
+Unauthorized copying or replication of this product, its code, or branding is prohibited.
+
+---
+
+### ❤️ Built with innovation by [Cadifys](https://cadifys.com)
